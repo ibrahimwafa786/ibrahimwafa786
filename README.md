@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrahimwafa786
 - 👀 I’m interested in web developement.
-- 🌱 I’m currently learning javascript .
+- 🌱 I’m currently learning React .
 - 💞️ I’m looking to collaborate on practicing and projects...
 - 📫 
 
